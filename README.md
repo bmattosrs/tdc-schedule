@@ -1,5 +1,8 @@
 # Página de busca das palestras do TDC Summit IA - POA
 
+### Link produção:
+https://bmattosrs.github.io/tdc-schedule/
+
 ### Ideia:
 Participei da equipe de apoio do evento como voluntário e criei essa página como uma ferramenta de auxílio pessoal (não é endossada pelo TDC) para a minha função, uma vez que precisei orientar os participantes quanto as salas e dias das atividades.
 
