@@ -1,0 +1,72 @@
+[
+    {
+        "titulo": "Abertura",
+        "palestrante": "Yara Mascarenhas Hornos (TDC)",
+        "horario": "08:59 -09:50",
+        "local": "Palco 1",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "Mini keynote SERPRO",
+        "palestrante": "SERPRO",
+        "horario": "09:00 -09:50",
+        "local": "Palco 1",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "Mini keynote Oracle",
+        "palestrante": "Henrique Ferro (Oracle)",
+        "horario": "09:00 -09:50",
+        "local": "Palco 1",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "Mini keynote SAP",
+        "palestrante": "Dennison John (SAP Labs Latin America)",
+        "horario": "09:00 -09:50",
+        "local": "Palco 1",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "Keynote Nova Indústria Brasil: as ações da Finep para apoiar o desenvolvimento de IA no país.",
+        "palestrante": "Marco Bruno Manzolillo (Finep)",
+        "horario": "10:00 -10:35",
+        "local": "Palco 1",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "Casos de Inteligência Artificial Premiados no Prêmio SERPRO de Inovação",
+        "palestrante": "Cristiane Beloni Laureano (SERPRO), Sebastião Borges Fonseca (SERPRO), Carlos Alberto Bráz Macapuna (SERPRO)",
+        "horario": "10:45 -11:20",
+        "local": "Palco 1",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "Poder dos Dados e da IA com HeatWave MySQL e Oracle DB 23AI",
+        "palestrante": "Herbert Menezes (Oracle)",
+        "horario": "11:30 -12:05",
+        "local": "Palco 1",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "Intervalo para Almoço - Primeiro Dia",
+        "palestrante": "",
+        "horario": "12:15 -13:45",
+        "local": "",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "Reimagine o desenvolvimento de software com IA generativa",
+        "palestrante": "Marcelo Palladino (AWS)",
+        "horario": "13:45 -14:20",
+        "local": "Paclo 1",
+        "dia": "04/12"
+    },
+    {
+        "titulo": "XXXXX",
+        "palestrante": "XXX",
+        "horario": "xxxx",
+        "local": "xxxx",
+        "dia": "04/12"
+    }
+]
